@@ -1,4 +1,7 @@
 # QR-generator-
+#first install qrcode and pillow module in your terminal using the command
+pip install qrcode[pil]
+
 import qrcode
 
 # Taking the URL as input you want to encode
